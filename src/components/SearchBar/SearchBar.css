@@ -15,7 +15,7 @@
   color: #262626;
 }
 .image-wrapper {
-  height: 50px;
+  height: 20px;
 }
 
 .logo-image {
@@ -28,4 +28,9 @@
 
 .social {
   width: 50px;
+}
+
+.instaTitle {
+  height: 50px;
+  border-left: 1px solid black;
 }
